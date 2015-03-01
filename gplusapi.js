@@ -1,7 +1,7 @@
 function pageLoaded() {
-  gapi.client.setApiKey("AIzaSyDTIaJiPluGgP_RBERTelHkpZLPaGIf5dE");
+  gapi.client.setApiKey("IuvaTyY2TAE_j8XBMdkWUpA1");
   gapi.auth.authorize(
-    { client_id: "1058103586955-lma4u04883olc8qiveajsnb2r71djlc6.apps.googleusercontent.com",
+    { client_id: "714729494277-dgnajp30pp563ngcmqf0250b47o5m6nl.apps.googleusercontent.com",
       immmediate: true,
       scope: "https://www.googleapis.com/auth/plus.login" },
     signedIn
